@@ -1,0 +1,28 @@
+/*
+Theme Name:     The Bootstrap Geohackers
+Theme URI:      http://geohackers.in
+Description:    Child theme for the Bootstrap theme
+Author:         Sajjad Anwar
+Author URI:     http://twitter.com/geohacker
+Template:       the-bootstrap             
+Version:        0.1.0
+*/
+
+@import url("../the-bootstrap/style.css");
+.widget-title {
+font-size: 20px;
+color: grey;
+}
+
+.entry-title a{
+	color: black;
+	}
+
+.entry-title a:hover {
+	color: #005580;
+	}
+
+#site-description {
+	font-size: 30px;
+	}
+	
